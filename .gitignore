@@ -5,3 +5,5 @@ package-lock.json
 truffle/build
 
 .DS_Store
+
+.idea
